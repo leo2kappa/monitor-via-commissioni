@@ -1,0 +1,18 @@
+{
+  "proponente": "Fred. Olsen",
+  "parole_chiave_generiche": ["Fred. Olsen", "Fred Olsen", "Olsen", "Energia Pitigliano", "Pitigliano", "Manciano", "Ischia di Castro"],
+  "progetti": [
+    {"id": 7310, "nome": "San Giuliano"},
+    {"id": 8294, "nome": "Energia Viterbo"},
+    {"id": 8691, "nome": "Energia Is Coris"},
+    {"id": 8692, "nome": "Energia Monte Pizzinnu"},
+    {"id": 8810, "nome": "Energia Monte San Pacifico"},
+    {"id": 9257, "nome": "Energia Caldarola"},
+    {"id": 10772, "nome": "Energia Monte Petralia"},
+    {"id": 12457, "nome": "Energia Molise"},
+    {"id": 13034, "nome": "Energia Sorano"},
+    {"id": 13696, "nome": "Energia della Comunanza"},
+    {"id": 13941, "nome": "Energia Monte Biblico"},
+    {"id": 14028, "nome": "Energia della Valnerina"}
+  ]
+}

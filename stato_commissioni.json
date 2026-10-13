@@ -1,0 +1,117 @@
+{
+ "ultimo_aggiornamento": "2026-10-13",
+ "avvisi_elaborati": [
+  {
+   "id": 6467,
+   "titolo": "OdG prossima seduta VIA, e Plenaria CTVA",
+   "data_avviso": "2026-10-07",
+   "sedute": [
+    "Plenaria n.51 del 2026-10-12 h17",
+    "Sottocommissione VIA n.70 del 2026-10-12 h18"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6467",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6455,
+   "titolo": "OdG prossima seduta VIA, e Plenaria CTVA",
+   "data_avviso": "2026-09-29",
+   "sedute": [
+    "Plenaria n.50 del 2026-10-05 h17",
+    "Sottocommissione VIA n.69 del 2026-10-05 h18"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6455",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6435,
+   "titolo": "OdG prossima seduta VIA",
+   "data_avviso": "2026-09-17",
+   "sedute": [
+    "Sottocommissione VIA n.68 del 2026-09-21 h17"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6435",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6483,
+   "titolo": "OdG prossima seduta Plenaria PNIEC-PNRR",
+   "data_avviso": "2026-10-13",
+   "sedute": [
+    "Plenaria PNRR-PNIEC n.183 del 2026-10-15 h10:30"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6483",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6481,
+   "titolo": "OdG prossima seduta SC-PNRR",
+   "data_avviso": "2026-10-12",
+   "sedute": [
+    "SC PNRR n.80 del 2026-10-15 h9:45"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6481",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6482,
+   "titolo": "OdG prossima seduta SC PNIEC",
+   "data_avviso": "2026-10-12",
+   "sedute": [
+    "SC PNIEC n.84 del 2026-10-15 h10:00"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6482",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6464,
+   "titolo": "Revisione OdG prossima seduta Plenaria PNIEC-PNRR",
+   "data_avviso": "2026-10-06",
+   "sedute": [
+    "Plenaria PNRR-PNIEC n.182 del 2026-10-08 (revisione)"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6464",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6463,
+   "titolo": "OdG prossima seduta Plenaria PNIEC-PNRR",
+   "data_avviso": "2026-10-05",
+   "sedute": [
+    "Plenaria PNRR-PNIEC n.182 del 2026-10-08 h10:30"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6463",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6460,
+   "titolo": "OdG prossima seduta SC-PNRR",
+   "data_avviso": "2026-10-05",
+   "sedute": [
+    "SC PNRR n.79 del 2026-10-08 h9:30"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6460",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6461,
+   "titolo": "OdG prossima seduta SC PNIEC",
+   "data_avviso": "2026-10-05",
+   "sedute": [
+    "SC PNIEC n.83 del 2026-10-08 h10:00"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6461",
+   "match_fred_olsen": false
+  },
+  {
+   "id": 6452,
+   "titolo": "OdG prossima seduta SC PNIEC",
+   "data_avviso": "2026-09-29",
+   "sedute": [
+    "SC PNIEC n.82 del 2026-10-01 h10:00"
+   ],
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6452",
+   "match_fred_olsen": false
+  }
+ ]
+}

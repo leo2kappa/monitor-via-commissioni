@@ -1,72 +1,206 @@
-[
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Energia Is Coris - scheda VIA MASE (stato: in attesa concerto)",
-  "indirizzo": "https://va.mite.gov.it/it-IT/Oggetti/Info/9082"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Energia Monte Pizzinnu - scheda VIA MASE (istruttoria tecnica)",
-  "indirizzo": "https://va.mite.gov.it/it-IT/Oggetti/Info/9084"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Parco eolico Sud Iglesiente (Sorgenia), Villamassargia - scheda VIA",
-  "indirizzo": "https://va.mite.gov.it/it-IT/Oggetti/Info/9935"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Parco eolico Astia (Sardeolica/Saras), Villamassargia",
-  "indirizzo": "https://va.mite.gov.it/File/Documento/807445"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Lettera Comune di Villamassargia al Ministero sui progetti eolici",
-  "indirizzo": "https://va.mite.gov.it/File/Documento/897608"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Ulivi e pale, pronta la devastazione eolica de S'Ortu Mannu (Unione Sarda)",
-  "indirizzo": "https://www.unionesarda.it/news-sardegna/sulcis-iglesiente/ulivi-e-pale-pronta-la-devastazione-eolica-de-sortu-mannu-tu09t2wp"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Buddusò, cancellato maxi progetto eolico (La Nuova Sardegna, 2026-08-07)",
-  "indirizzo": "https://www.lanuovasardegna.it/regione/2026/08/07/news/l-effetto-einstein-telescope-sulle-rinnovabili-cancellato-il-maxi-progetto-eolico-nell-isola-ecco-perche-1.100904280"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Monte Pelao IVPC Power 8 (Bessude/Borutta) - protesta sindaco Borutta",
-  "indirizzo": "https://www.sardegnaierioggidomani.com/energia/impianto-eolico-a-monte-pelao-la-protesta-del-sindaco-di-borutta-silvano-arru/"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Eolico in Sardegna, nuovi progetti nel Sassarese (Radiolina)",
-  "indirizzo": "https://radiolina.it/podcast/eolico-in-sardegna-lombra-della-speculazione-energetica-dai-legami-con-messina-denaro-ai-nuovi-progetti-nel-sassarese/"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Assalto eolico sui monti del capitano Lussu - Bruncu 'e Niada (Unione Sarda)",
-  "indirizzo": "https://www.unionesarda.it/news-sardegna/cagliari/assalto-eolico-sui-monti-del-capitano-lussu-vk9hjj2i"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Energia Monte Taccu - documenti VIA MASE",
-  "indirizzo": "https://va.mite.gov.it/File/Documento/871470"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Eolico nel Parteolla-Gerrei: incontro pubblico a Dolianova (Unione Sarda)",
-  "indirizzo": "https://www.unionesarda.it/news-sardegna/agenda/eolico-nel-parteolla-gerrei-incontro-pubblico-a-dolianova-hlez4lcv"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Parco Eolico Mistral (Mistral Wind Energy), Ittiri e Bessude - quadro progettuale giu 2022",
-  "indirizzo": "https://va.mite.gov.it/File/Documento/787759"
- },
- {
-  "prima_segnalazione": "2026-10-13",
-  "titolo": "Monte Pelao IVPC Power 8 - documenti VIA MASE (Bessude, Borutta, Bonnanaro, Siligo)",
-  "indirizzo": "https://va.mite.gov.it/File/Documento/799268"
+{
+ "segnalati": [
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Is Coris - scheda VIA MASE (stato: in attesa concerto)",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Oggetti/Info/9082"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Monte Pizzinnu - scheda VIA MASE (istruttoria tecnica)",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Oggetti/Info/9084"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Parco eolico Sud Iglesiente (Sorgenia), Villamassargia - scheda VIA",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Oggetti/Info/9935"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Parco eolico Astia (Sardeolica/Saras), Villamassargia",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/807445"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Lettera Comune di Villamassargia al Ministero sui progetti eolici",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/897608"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Ulivi e pale, pronta la devastazione eolica de S'Ortu Mannu (Unione Sarda)",
+   "indirizzo": "https://www.unionesarda.it/news-sardegna/sulcis-iglesiente/ulivi-e-pale-pronta-la-devastazione-eolica-de-sortu-mannu-tu09t2wp"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Buddusò, cancellato maxi progetto eolico (La Nuova Sardegna, 2026-08-07)",
+   "indirizzo": "https://www.lanuovasardegna.it/regione/2026/08/07/news/l-effetto-einstein-telescope-sulle-rinnovabili-cancellato-il-maxi-progetto-eolico-nell-isola-ecco-perche-1.100904280"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Monte Pelao IVPC Power 8 (Bessude/Borutta) - protesta sindaco Borutta",
+   "indirizzo": "https://www.sardegnaierioggidomani.com/energia/impianto-eolico-a-monte-pelao-la-protesta-del-sindaco-di-borutta-silvano-arru/"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Eolico in Sardegna, nuovi progetti nel Sassarese (Radiolina)",
+   "indirizzo": "https://radiolina.it/podcast/eolico-in-sardegna-lombra-della-speculazione-energetica-dai-legami-con-messina-denaro-ai-nuovi-progetti-nel-sassarese/"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Assalto eolico sui monti del capitano Lussu - Bruncu 'e Niada (Unione Sarda)",
+   "indirizzo": "https://www.unionesarda.it/news-sardegna/cagliari/assalto-eolico-sui-monti-del-capitano-lussu-vk9hjj2i"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Monte Taccu - documenti VIA MASE",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/871470"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Eolico nel Parteolla-Gerrei: incontro pubblico a Dolianova (Unione Sarda)",
+   "indirizzo": "https://www.unionesarda.it/news-sardegna/agenda/eolico-nel-parteolla-gerrei-incontro-pubblico-a-dolianova-hlez4lcv"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Parco Eolico Mistral (Mistral Wind Energy), Ittiri e Bessude - quadro progettuale giu 2022",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/787759"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Monte Pelao IVPC Power 8 - documenti VIA MASE (Bessude, Borutta, Bonnanaro, Siligo)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/799268"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Sorano (Fred Olsen) - sintesi non tecnica lug 2024, MASE",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1147190"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Sorano - La Nazione 24/10/2024, quasi 500 osservazioni",
+   "indirizzo": "https://www.lanazione.it/grosseto/cronaca/eolico-maremma-xwj4pqrv"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Sorano - La Nazione 09/10/2024, osservazioni del Comune",
+   "indirizzo": "https://www.lanazione.it/grosseto/cronaca/eolico-tira-una-brutta-aria-il-parco-e-da-bocciare-critiche-anche-alla-regione-af05d1b4"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia della Valle (Fred Olsen), Umbria - La Nazione 04/04/2025",
+   "indirizzo": "https://www.lanazione.it/umbria/cronaca/lotta-agli-impianti-eolici-ce-46c4e6f1"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Monte Petralta - avviso al pubblico VIA 19/12/2023",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/990905"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Molise - relazione archeologica 12/04/2024",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1093244"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Monte San Pacifico - documenti VIA MASE",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/793360"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Caldarola - documenti VIA MASE",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/793609"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "San Giuliano (Fred Olsen) - documenti VIA MASE",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/691072"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Fred Olsen floating offshore Brindisi (offshorewind.biz 09/12/2022)",
+   "indirizzo": "https://offshorewind.biz/2022/12/09/fred-olsen-renewables-files-for-floating-wind-concession-in-italy"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Fred Olsen FV offshore Ortona 101 MW (QualEnergia 19/01/2023)",
+   "indirizzo": "https://www.qualenergia.it/pro/articoli-pro/abruzzo-progetto-fotovoltaico-offshore-101-mw/"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Is Coris - documenti VIA 2022 (Villamassargia, Narcao, Musei)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/735009"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Monte Pizzinnu - controdeduzioni 2023",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/924042"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Energia Monte Taccu - documenti VIA 2022-2023",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/824950"
+  },
+  {
+   "prima_segnalazione": "2026-10-13",
+   "titolo": "Bruncu 'e Niada (Econergy) - documenti VIA",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/509072"
+  }
+ ],
+ "progetti_fred_olsen_noti": {
+  "Energia Sorano": {
+   "comuni": [
+    "Sorano",
+    "Pitigliano",
+    "Manciano",
+    "Ischia di Castro"
+   ],
+   "fonte": "https://www.lanazione.it/grosseto/cronaca/eolico-maremma-xwj4pqrv"
+  },
+  "Energia Molise": {
+   "comuni": [
+    "Bonefro",
+    "Casacalenda",
+    "Ripabottoni",
+    "Sant'Elia a Pianisi",
+    "San Giuliano di Puglia",
+    "Santa Croce di Magliano",
+    "Rotello"
+   ],
+   "fonte": "https://va.mite.gov.it/File/Documento/1093244 (elenco da risultato di ricerca, non verificato sul testo)"
+  },
+  "Energia Monte Petralta": {
+   "comuni": [
+    "Sestino",
+    "Badia Tedalda",
+    "Carpegna",
+    "Borgo Pace",
+    "Mercatello sul Metauro"
+   ],
+   "fonte": "https://va.mite.gov.it/File/Documento/990905 (opere interessate, incluso elettrodotto)"
+  },
+  "Energia Monte San Pacifico": {
+   "comuni": [
+    "San Severino Marche",
+    "Serrapetrona",
+    "Castelraimondo",
+    "Camerino"
+   ],
+   "fonte": "https://va.mite.gov.it/File/Documento/793360 (da risultato di ricerca)"
+  },
+  "Energia della Valnerina": {
+   "comuni": [
+    "Foligno",
+    "Nocera Umbra",
+    "Valtopina",
+    "Gualdo Tadino"
+   ],
+   "fonte": "https://www.lanazione.it/umbria/cronaca/lotta-agli-impianti-eolici-ce-46c4e6f1 (l'articolo chiama il progetto 'Energia della valle': corrispondenza da confermare)"
+  },
+  "San Giuliano": {
+   "comuni": [
+    "San Giuliano di Puglia"
+   ],
+   "fonte": "https://va.mite.gov.it/File/Documento/691072 (da risultato di ricerca)"
+  }
  }
-]
+}

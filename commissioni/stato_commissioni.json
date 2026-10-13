@@ -1,117 +1,138 @@
 {
- "ultimo_aggiornamento": "2026-10-13",
- "avvisi_elaborati": [
-  {
-   "id": 6467,
-   "titolo": "OdG prossima seduta VIA, e Plenaria CTVA",
-   "data_avviso": "2026-10-07",
-   "sedute": [
-    "Plenaria n.51 del 2026-10-12 h17",
-    "Sottocommissione VIA n.70 del 2026-10-12 h18"
-   ],
-   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6467",
-   "match_fred_olsen": false
-  },
-  {
-   "id": 6455,
-   "titolo": "OdG prossima seduta VIA, e Plenaria CTVA",
-   "data_avviso": "2026-09-29",
-   "sedute": [
-    "Plenaria n.50 del 2026-10-05 h17",
-    "Sottocommissione VIA n.69 del 2026-10-05 h18"
-   ],
-   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6455",
-   "match_fred_olsen": false
-  },
-  {
-   "id": 6435,
-   "titolo": "OdG prossima seduta VIA",
-   "data_avviso": "2026-09-17",
-   "sedute": [
-    "Sottocommissione VIA n.68 del 2026-09-21 h17"
-   ],
-   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6435",
-   "match_fred_olsen": false
-  },
-  {
+ "avvisi": {
+  "6483": {
    "id": 6483,
    "titolo": "OdG prossima seduta Plenaria PNIEC-PNRR",
-   "data_avviso": "2026-10-13",
-   "sedute": [
-    "Plenaria PNRR-PNIEC n.183 del 2026-10-15 h10:30"
-   ],
+   "data": "13/10/2026",
    "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6483",
-   "match_fred_olsen": false
-  },
-  {
-   "id": 6481,
-   "titolo": "OdG prossima seduta SC-PNRR",
-   "data_avviso": "2026-10-12",
-   "sedute": [
-    "SC PNRR n.80 del 2026-10-15 h9:45"
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1437"
    ],
-   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6481",
-   "match_fred_olsen": false
+   "sedute": "15/10/2026 10:30 (Plenaria n.183)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
   },
-  {
+  "6482": {
    "id": 6482,
    "titolo": "OdG prossima seduta SC PNIEC",
-   "data_avviso": "2026-10-12",
-   "sedute": [
-    "SC PNIEC n.84 del 2026-10-15 h10:00"
-   ],
+   "data": "12/10/2026",
    "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6482",
-   "match_fred_olsen": false
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1436"
+   ],
+   "sedute": "15/10/2026 10:00 (SC PNIEC n.84)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
   },
-  {
+  "6481": {
+   "id": 6481,
+   "titolo": "OdG prossima seduta SC-PNRR",
+   "data": "12/10/2026",
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6481",
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1435"
+   ],
+   "sedute": "15/10/2026 09:45 (SC PNRR n.80)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
+  },
+  "6467": {
+   "id": 6467,
+   "titolo": "OdG prossima seduta VIA, e Plenaria CTVA",
+   "data": "07/10/2026",
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6467",
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1434",
+    "https://va.mite.gov.it/File/DocumentoPortale/1432"
+   ],
+   "sedute": "12/10/2026 18:00 (SC VIA n.70); 12/10/2026 17:00 (Plenaria CTVA n.51)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
+  },
+  "6464": {
    "id": 6464,
    "titolo": "Revisione OdG prossima seduta Plenaria PNIEC-PNRR",
-   "data_avviso": "2026-10-06",
-   "sedute": [
-    "Plenaria PNRR-PNIEC n.182 del 2026-10-08 (revisione)"
-   ],
+   "data": "06/10/2026",
    "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6464",
-   "match_fred_olsen": false
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1431"
+   ],
+   "sedute": "08/10/2026 10:30 (Plenaria n.182)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
   },
-  {
+  "6463": {
    "id": 6463,
    "titolo": "OdG prossima seduta Plenaria PNIEC-PNRR",
-   "data_avviso": "2026-10-05",
-   "sedute": [
-    "Plenaria PNRR-PNIEC n.182 del 2026-10-08 h10:30"
-   ],
+   "data": "05/10/2026",
    "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6463",
-   "match_fred_olsen": false
-  },
-  {
-   "id": 6460,
-   "titolo": "OdG prossima seduta SC-PNRR",
-   "data_avviso": "2026-10-05",
-   "sedute": [
-    "SC PNRR n.79 del 2026-10-08 h9:30"
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1429"
    ],
-   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6460",
-   "match_fred_olsen": false
+   "sedute": "08/10/2026 10:30 (Plenaria n.182)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
   },
-  {
+  "6461": {
    "id": 6461,
    "titolo": "OdG prossima seduta SC PNIEC",
-   "data_avviso": "2026-10-05",
-   "sedute": [
-    "SC PNIEC n.83 del 2026-10-08 h10:00"
-   ],
+   "data": "05/10/2026",
    "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6461",
-   "match_fred_olsen": false
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1428"
+   ],
+   "sedute": "08/10/2026 10:00 (SC PNIEC n.83)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
   },
-  {
+  "6460": {
+   "id": 6460,
+   "titolo": "OdG prossima seduta SC-PNRR",
+   "data": "05/10/2026",
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6460",
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1426"
+   ],
+   "sedute": "08/10/2026 09:30 (SC PNRR n.79)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
+  },
+  "6455": {
+   "id": 6455,
+   "titolo": "OdG prossima seduta VIA, e Plenaria CTVA",
+   "data": "29/09/2026",
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6455",
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1425",
+    "https://va.mite.gov.it/File/DocumentoPortale/1424"
+   ],
+   "sedute": "05/10/2026 18:00 (SC VIA n.69); 05/10/2026 17:00 (Plenaria CTVA n.50)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
+  },
+  "6452": {
    "id": 6452,
    "titolo": "OdG prossima seduta SC PNIEC",
-   "data_avviso": "2026-09-29",
-   "sedute": [
-    "SC PNIEC n.82 del 2026-10-01 h10:00"
-   ],
+   "data": "29/09/2026",
    "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6452",
-   "match_fred_olsen": false
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1423"
+   ],
+   "sedute": "01/10/2026 10:00 (SC PNIEC n.82)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
+  },
+  "6448": {
+   "id": 6448,
+   "titolo": "OdG prossima seduta SC-PNRR",
+   "data": "28/09/2026",
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6448",
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1421"
+   ],
+   "sedute": "01/10/2026 09:30 (SC PNRR n.78)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
+  },
+  "6435": {
+   "id": 6435,
+   "titolo": "OdG prossima seduta VIA",
+   "data": "17/09/2026",
+   "link": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6435",
+   "pdf": [
+    "https://va.mite.gov.it/File/DocumentoPortale/1416"
+   ],
+   "sedute": "21/09/2026 17:00 (SC VIA n.68)",
+   "esito": "nessuna corrispondenza Fred. Olsen"
   }
- ]
+ }
 }

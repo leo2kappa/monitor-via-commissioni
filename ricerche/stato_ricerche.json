@@ -144,6 +144,51 @@
    "prima_segnalazione": "2026-10-13",
    "titolo": "Bruncu 'e Niada (Econergy) - documenti VIA",
    "indirizzo": "https://va.mite.gov.it/File/Documento/509072"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "Energia Is Coris - avviso al pubblico istanza VIA 13/06/2022 (Villamassargia, Narcao, Musei; 9 WTG, 48 MW)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/735129"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "Energia Monte Pizzinnu - relazione tecnica BESS (giu 2022; Bessude, Borutta, Ittiri, Thiesi)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/738950"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "Parco eolico Villamassargia (Sorgenia, 59,15 MW) - relazione elettrica rev. 1 del 25/09/2024",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1163776"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "San Giuliano (ID 7310, Fred Olsen) - richiesta integrazioni CTVA 15/01/2024",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/970150"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "Energia Molise - presentazione proponente e iniziativa (rev. 22/03/2024)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1093145"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "Energia Monte San Pacifico - relazione calcoli elettrici (rev. 16/01/2024)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1016163"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "Energia Sorano - avviso al pubblico istanza VIA 29/08/2024",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1147201"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "Seawind Mazara (Fred Olsen, offshore 798 MW) - Gazzetta Ufficiale 25/03/2023",
+   "indirizzo": "https://www.gazzettaufficiale.it/eli/id/2023/03/25/TX23ADG2800/p2"
+  },
+  {
+   "prima_segnalazione": "2026-10-16",
+   "titolo": "Seawind Brindisi (Fred Olsen, offshore) - relazione tecnica illustrativa gen 2023",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/884047"
   }
  ],
  "progetti_fred_olsen_noti": {
@@ -154,7 +199,7 @@
     "Manciano",
     "Ischia di Castro"
    ],
-   "fonte": "https://www.lanazione.it/grosseto/cronaca/eolico-maremma-xwj4pqrv"
+   "fonte": "https://va.mite.gov.it/File/Documento/1147201 (avviso al pubblico 29/08/2024, testo letto il 2026-10-16: 8 WTG, 43,4 MW)"
   },
   "Energia Molise": {
    "comuni": [
@@ -166,7 +211,7 @@
     "Santa Croce di Magliano",
     "Rotello"
    ],
-   "fonte": "https://va.mite.gov.it/File/Documento/1093244 (elenco da risultato di ricerca, non verificato sul testo)"
+   "fonte": "https://va.mite.gov.it/File/Documento/1093145 (testo letto il 2026-10-16: 12 WTG da 6,2 MW, 7 comuni)"
   },
   "Energia Monte Petralta": {
    "comuni": [
@@ -185,7 +230,7 @@
     "Castelraimondo",
     "Camerino"
    ],
-   "fonte": "https://va.mite.gov.it/File/Documento/793360 (da risultato di ricerca)"
+   "fonte": "https://va.mite.gov.it/File/Documento/1016163 (testo letto il 2026-10-16: 36 MW; aerogeneratori a San Severino Marche e Serrapetrona, opere di connessione anche a Castelraimondo e Camerino)"
   },
   "Energia della Valnerina": {
    "comuni": [
@@ -198,9 +243,10 @@
   },
   "San Giuliano": {
    "comuni": [
-    "San Giuliano di Puglia"
+    "San Giuliano di Puglia",
+    "Santa Croce di Magliano"
    ],
-   "fonte": "https://va.mite.gov.it/File/Documento/691072 (da risultato di ricerca)"
+   "fonte": "https://va.mite.gov.it/File/Documento/970150 (testo letto il 2026-10-16: 11 WTG da 6,2 MW, 68,24 MW; probabile precursore di Energia Molise, da confermare)"
   },
   "Energia Caldarola": {
    "comuni": [
@@ -208,6 +254,14 @@
     "Camerino"
    ],
    "fonte": "https://va.mite.gov.it/File/Documento/793609 (testo del documento letto il 2026-10-15: impianto da 60 MW con accumulo da 20 MW, opere nei comuni di Caldarola e Camerino, MC)"
+  },
+  "Energia Is Coris": {
+   "comuni": [
+    "Villamassargia",
+    "Narcao",
+    "Musei"
+   ],
+   "fonte": "https://va.mite.gov.it/File/Documento/735129 (avviso al pubblico, testo letto il 2026-10-16)"
   }
  }
 }
